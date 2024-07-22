@@ -69,8 +69,8 @@ Create a RESTful API for a simple blog application. The API should handle CRUD o
 - Deploy your code.
 - Include a README.md file with instructions on how to set up and run the application.
 - Ensure your submission includes sample data and API documentation (e.g., Postman collection).
-- Send your links to contact@abiodunsamuel.com
-- Also, if you have any question you can forward them to contact@abiodunsamuel.com
+- Send your links to intelregion.com@gmail.com
+- Also, if you have any question you can forward them to intelregion.com@gmail.com
 
 ### Bonus Points:
 - Implement pagination and search functionality for posts.
