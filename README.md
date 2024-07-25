@@ -74,7 +74,7 @@ Create a RESTful API for a simple blog application. The API should handle CRUD o
 
 ### Bonus Points:
 - Implement pagination and search functionality for posts.
-- Use a modern framework (e.g., NestJS, Django) to enhance productivity.
+- Use a modern framework (e.g., ExpressJs, NestJS, Django, Laravel) to enhance productivity.
 - Set up CI/CD pipeline for automated testing and deployment.
 
 --- 
